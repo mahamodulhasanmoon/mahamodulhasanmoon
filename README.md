@@ -1,8 +1,8 @@
 ![Design and Development](https://github.com/mahamodulhasanmoon/mahamodulhasanmoon/blob/main/cover.png)
 
 
-
-# Mahamodul Hasan Moon
+<br/> 
+<h1 align="center">Mahamodul Hasan Moon</h1> <br/> 
 
  <h2 align="center">Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
@@ -11,20 +11,27 @@
 I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 ## About Me
-- 🌱 I’m currently learning MERN Stack Development
-- 💬 Ask me about **Web Solutions**
-- 📫 How to reach me: coddermoon@gmail.com
-- ⚡ Fun fact **I Think i'm funny too 😃**
+- 🌱 I’m currently learning Redux and Typescript
+- 💬 Ask me about **any kind of programming related question**
+
+
 <br/><br/>
 
-#### :muscle: Things I am challenging myself with:
 
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
 
-<br />
+<!-- social links -->
+
+<h3 align="left">:coffee: &emsp;Connect with me:</h3>
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/mahamodulhasanmoon/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/coddermoon"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/coddermoon/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/coder.mahamodulhasan/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+
+
+</p>
 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h2>
@@ -44,6 +51,10 @@ I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Develop
      <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="30"/>
      <img src="https://img.shields.io/badge/-express-20232A?style=flat&logo=express&logoColor=FFFFFF" height="30"/>
+          <img src="https://img.shields.io/badge/-redux-593D88?style=flat&logo=redux&logoColor=FFFFFF" height="30"/>
+          <img src="https://img.shields.io/badge/-typescript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF" height="30"/>
+
+
 </p>
 <br/>
 
