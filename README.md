@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/mahamodulhasanmoon/mahamodulhasanmoon/blob/main/cover.png)
+
 
 
 <br/> 
