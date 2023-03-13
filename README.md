@@ -1,7 +1,4 @@
 
-
-
-<br/> 
 <h1 align="center">Mahamodul Hasan Moon</h1> <br/> 
 
  <h2 align="center">Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
